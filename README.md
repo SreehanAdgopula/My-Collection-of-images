@@ -123,7 +123,7 @@ h1 {
 <div class="row">
   <div class="column Space">
     <div class="content">
-      <img src="Space.jpeg" alt="Space" style="width:100%">
+      <img src="space.jpeg" alt="Space" style="width:100%">
       <h4></h4>
       <p></p>
     </div>
