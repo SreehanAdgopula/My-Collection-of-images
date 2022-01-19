@@ -2,7 +2,28 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-   
+ <style>
+    body {
+      font-family: cursive;
+    }
+    
+    .glow {
+      font-size: 80px;
+      color: #fff;
+      text-align: center;
+      animation: glow 1s ease-in-out infinite alternate;
+    }
+    
+    @-webkit-keyframes glow {
+      from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60800, 0 0 40px #e60000, 0 0 50px #e60000, 0 0 60px #e60000, 0 0 70px #e60000;
+      }
+      
+      to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4d4d, 0 0 40px #ff4d4d, 0 0 50px #ff4d4d, 0 0 60px #ff4d4d, 0 0 70px #ff4d4d, 0 0 70px #ff4d4d;
+      }
+    }
+    </style>  
 <style>
 * {
   box-sizing: border-box;
