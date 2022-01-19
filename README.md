@@ -105,10 +105,10 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1 class="glow"><font face= "Harlow Solid"> My Collection of images</h1> </div> </font>
+<h1 class="glow"> My Collection of images</h1> </div> 
 
 
-<h2 class="glow"><font face= "Harlow Solid">Images</h2> </font>
+<h2 class="glow">Images</h2> 
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
@@ -173,7 +173,7 @@ h1 {
   </div>
   <div class="column Minecraft">
     <div class="content">
-    <img src="image.jpg" alt="Minecraft" style="width:100%">
+    <img src="realminecraft.jpg" alt="Minecraft" style="width:100%">
      
     </div>
   </div>
