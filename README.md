@@ -105,10 +105,10 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1 class="glow">My Collection of images</h1>
-<hr>
+<h1 class="glow"><font face= "Harlow Solid"> My Collection of images</h1> </div> </font>
 
-<h2 class="glow">Images</h2>
+
+<h2 class="glow"><font face= "Harlow Solid">Images</h2> </font>
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
