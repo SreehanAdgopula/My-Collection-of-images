@@ -16,14 +16,14 @@
     
     @-webkit-keyframes glow {
       from {
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60800, 0 0 40px #e60000, 0 0 50px #e60000, 0 0 60px #e60000, 0 0 70px #e60000;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #c90000, 0 0 40px #f87800, 0 0 50px #fffb05, 0 0 60px #00e626, 0 0 70px #e60000;
       }
       
       to {
-        text-shadow: 0 0 20px #fff, 0 0 30px #ff4d4d, 0 0 40px #ff4d4d, 0 0 50px #ff4d4d, 0 0 60px #ff4d4d, 0 0 70px #ff4d4d, 0 0 70px #ff4d4d;
+        text-shadow: 0 0 20px #fff, 0 0 30px #4ddbff, 0 0 40px #005670, 0 0 50px #2717b4, 0 0 60px #f04dff, 0 0 70px #be4dff, 0 0 70px #ff4d4d;
       }
     }
-    </style>  
+    </style>
 <style>
 * {
   box-sizing: border-box;
